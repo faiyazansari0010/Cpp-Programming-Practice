@@ -1,0 +1,14 @@
+//To print any statement.
+#include<iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+cout<<"Hello world!";
+
+return 0;
+
+}

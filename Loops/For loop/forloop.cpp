@@ -8,6 +8,7 @@ int main(){
 
 cout<<"Type your number:\n";
 
+
 int n;
 cin>>n;
 
